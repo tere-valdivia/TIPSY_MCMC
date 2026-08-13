@@ -1,3 +1,7 @@
+# Astronomy heavy files
+*.fits
+degenerate_cases/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
